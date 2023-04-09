@@ -15,3 +15,4 @@ Keras-Preprocessing==1.1.2
 typing_extensions
 tokenizers
 more-itertools
+os-sys
