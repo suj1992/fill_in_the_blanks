@@ -4,7 +4,7 @@ nltk==3.8.1
 easyocr==1.6.2
 traceback2
 flashtext
-spacy==3.5.1
+spacy
 torch
 scikit-learn==1.0.2
 pke-tool
@@ -12,4 +12,4 @@ tensorflow==2.6.0
 keras==2.6.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
-typing_extensions==4.5.0
+typing_extensions
