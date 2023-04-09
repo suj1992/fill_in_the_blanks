@@ -1,4 +1,7 @@
 pip==21.3.1
+wheel
+pycparser
+setuptools
 streamlit
 opencv-python
 nltk
@@ -17,5 +20,3 @@ typing_extensions
 tokenizers
 more-itertools
 os-sys
-setuptools
-pycparser
