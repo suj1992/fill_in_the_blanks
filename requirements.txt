@@ -9,7 +9,7 @@ torch
 scikit-learn==1.0.2
 pke-tool
 tensorflow
-keras==2.6.0
+keras
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 typing_extensions
