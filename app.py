@@ -14,7 +14,7 @@ import itertools
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('punkt')
-import pke
+#import pke
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet
 import traceback
