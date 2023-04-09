@@ -19,5 +19,5 @@ Keras-Preprocessing
 typing_extensions
 tokenizers
 more-itertools
-os-sys
+os_sys
 wheel
