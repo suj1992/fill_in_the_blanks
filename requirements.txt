@@ -5,3 +5,10 @@ easyocr==1.6.2
 traceback2
 
 
+
+
+
+
+
+opencv-python
+
