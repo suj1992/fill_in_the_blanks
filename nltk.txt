@@ -1,6 +1,4 @@
 punkt
-pke
 stopwords
-
 wordnet
-
+hinglish
