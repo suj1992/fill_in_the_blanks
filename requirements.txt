@@ -6,7 +6,7 @@ traceback2
 flashtext
 spacy
 torch
-scikit-learn
+scikit-learn==1.0.2
 pke-tool
 tensorflow
 keras
