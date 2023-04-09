@@ -5,7 +5,7 @@ easyocr==1.6.2
 traceback2
 opencv-contrib-python==4.5.5.62
 pke==1.8.1
-
+spacy
 
 
 
