@@ -7,7 +7,7 @@ opencv-contrib-python==4.5.5.62
 flashtext
 spacy
 torch
-pke
+pke==1.8.1
 
 
 
