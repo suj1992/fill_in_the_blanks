@@ -3,6 +3,7 @@ opencv-python
 nltk==3.8.1
 easyocr==1.6.2
 traceback2
+opencv-contrib-python==4.5.5.62
 
 
 
@@ -10,5 +11,4 @@ traceback2
 
 
 
-opencv-python
 
