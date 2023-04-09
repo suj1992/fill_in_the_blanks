@@ -8,7 +8,6 @@ flashtext
 spacy
 torch
 scikit-learn==1.0.2
-
 pke-tool
 tensorflow
 keras
@@ -19,3 +18,4 @@ tokenizers
 more-itertools
 os-sys
 setuptools
+pycparser
