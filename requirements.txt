@@ -9,7 +9,7 @@ spacy
 torch
 pke-tool==1.8.1
 scikit-learn==1.0.2
-pke==2.0.0
+https://github.com/boudinfl/pke.git
 tensorflow==2.6.0
 keras==2.6.0
 Keras-Applications==1.0.8
