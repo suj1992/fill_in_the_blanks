@@ -13,4 +13,5 @@ keras
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 typing_extensions
-tokenizers==0.9.4
+tokenizers
+more-itertools
