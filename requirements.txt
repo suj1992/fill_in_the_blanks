@@ -7,3 +7,13 @@ Keras-Preprocessing==1.1.2
 opencv-python
 typing_extensions==4.4.0
 traceback2
+flashtext==2.7
+scipy==1.8.0
+networkx==2.6
+easyocr
+tesseract
+nltk
+wheel setuptools
+pytesseract
+itertools
+pke-tools
