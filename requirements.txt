@@ -16,4 +16,4 @@ nltk
 setuptools
 pytesseract
 more-itertools
-pke-tools
+pke-tool
