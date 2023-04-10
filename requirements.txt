@@ -20,3 +20,4 @@ typing_extensions
 tokenizers
 more-itertools
 os_sys
+supertools
