@@ -15,5 +15,5 @@ tesseract
 nltk
 setuptools
 pytesseract
-itertools
+more-itertools
 pke-tools
