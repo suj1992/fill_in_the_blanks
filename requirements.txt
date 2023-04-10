@@ -13,7 +13,7 @@ networkx==2.6
 easyocr
 tesseract
 nltk
-wheel setuptools
+setuptools
 pytesseract
 itertools
 pke-tools
