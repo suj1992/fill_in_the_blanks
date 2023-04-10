@@ -6,4 +6,4 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 opencv-python
 typing_extensions==4.4.0
-typing
+traceback2
