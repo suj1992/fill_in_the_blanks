@@ -21,3 +21,4 @@ tokenizers
 more-itertools
 os_sys
 supertools
+PyQt5==5.15.5
